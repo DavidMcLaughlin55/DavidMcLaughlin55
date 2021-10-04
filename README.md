@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavidMcLaughlin55
-- 👀 I’m interested in music, film, food, skateboarding and programming.
 - 🌱 I’m currently learning Full-Stack Web Development.
-- 💞️ I’m looking to collaborate on open-source projects and with others.
+- 👥 I’m looking to collaborate on open-source projects and with others.
+- 👾 I enjoy playing guitar, listening to records, watching films, skateboarding, drinking excessive amounts of coffee and learning new technologies.
 
 <!---
 DavidMcLaughlin55/DavidMcLaughlin55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
