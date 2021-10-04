@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidMcLaughlin55
 - 🌱 I’m currently learning Full-Stack Web Development.
-- 👥 I’m looking to collaborate on open-source projects and with others.
+- 👥 I’m looking for job opportunities, collaboration and open-source projects to contribute to.
 - 👾 I enjoy playing guitar, listening to records, watching films, skateboarding, drinking excessive amounts of coffee and learning new technologies.
 
 <!---
